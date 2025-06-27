@@ -8,7 +8,7 @@
 ---
 
 ## 🐳 About Me
-- 💡 Currently working as an AI Engineer at Hanwha General Insurance  
+- 💡 I am an LLM researcher and engineer
 - 🎓 M.S. in Artificial Intelligence @ Sungkyunkwan University (2023.02 ~ 2025.02)  
 - 🔥 Interested in **LLM**, **AI Safety**, **Value Alignment**, and **RAG**
 
@@ -21,11 +21,18 @@
 </p>
 
 ## 💼 Work Experience
-- 🏢 **AI Engineer**, Hanwha General Insurance (2025.06 ~ Present)  
 - 🔍 **AI Intern**, Hanwha General Insurance (2025.01 ~ 2025.02)  
-- 🧠 **AI Intern**, Onoma AI (2022.07 ~ 2022.09)  
+- 🧠 **AI Intern**, Onoma AI (2022.07 ~ 2022.09)
+
+## Education
 - 🎓 Sungkyunkwan University, M.S. in **Artificial Intelligence** (2023.02 ~ 2025.02)  
 - 🧪 Yonsei University, B.S. in **Psychology** (2018.03 ~ 2023.02)
+
+## 📄 Publications
+### 🔹 ACL 2025 (Oral & Panel)
+**Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights**  
+Sooyung Choi, Jaehyeok Lee, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak
+[🔗 Paper]([https://example.com](https://arxiv.org/abs/2506.06404) [💻 Code] (https://github.com/Human-Language-Intelligence/Unintended-Harms-LLM)
 
 ## 🤝 Let's Connect!
 - 📧 Email: swimchoi98@gmail.com  

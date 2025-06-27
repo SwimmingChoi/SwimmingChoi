@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=0,3,3,3,2&text=Howdy!"/>
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&customColorList=0,3,3,3,2&text=I'm%20Sooyung%20Choi!"/>
 </p>
 
-<h1 align="center">🍀 Hey there, I'm Sooyung Choi! 🍀</h1>
-<h3 align="center">👩‍💻 LLM Engineer</h3>
+<h2 align="center">👩‍💻 Hello World — I’m a Researcher & Engineer in AI Safety</h1>
 
 ---
 

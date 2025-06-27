@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&text=Welcome!&fontSize=70&fontColor=000000&animation=twinkling&customColorList=ADD8E6,87CEEB,00BFFF,1E90FF,0000FF" />
+  <img src=["https://capsule-render.vercel.app/api?type=blur&height=100&section=header&text=Welcome!&fontSize=70&fontColor=000000&animation=twinkling&customColorList=ADD8E6,87CEEB,00BFFF,1E90FF,0000FF](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=0,3,3,3,2&text=Hi%20there&textBg=false)" />
 </p>
 
 <h1 align="center">✨ Hello, I'm Sooyung Choi! ✨</h1>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🐳 About Me
+## 😸 About Me
 - 💡 I am an LLM researcher and engineer
 - 🎓 M.S. in Artificial Intelligence @ Sungkyunkwan University (2023.02 ~ 2025.02)  
 - 🔥 Interested in **LLM**, **AI Safety**, **Value Alignment**, and **RAG**
@@ -21,18 +21,18 @@
 </p>
 
 ## 💼 Work Experience
-- 🔍 **AI Intern**, Hanwha General Insurance (2025.01 ~ 2025.02)  
-- 🧠 **AI Intern**, Onoma AI (2022.07 ~ 2022.09)
+- **AI Intern**, Hanwha General Insurance (2025.01 ~ 2025.02)  
+- **AI Intern**, Onoma AI (2022.07 ~ 2022.09)
 
-## Education
-- 🎓 Sungkyunkwan University, M.S. in **Artificial Intelligence** (2023.02 ~ 2025.02)  
-- 🧪 Yonsei University, B.S. in **Psychology** (2018.03 ~ 2023.02)
+## 🎓 Education
+- Sungkyunkwan University, M.S. in **Artificial Intelligence** (2023.02 ~ 2025.02)  
+- Yonsei University, B.S. in **Psychology** (2018.03 ~ 2023.02)
 
 ## 📄 Publications
 ### 🔹 ACL 2025 (Oral & Panel)
 **Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights**  
 Sooyung Choi, Jaehyeok Lee, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak 
-[🔗 Paper](https://arxiv.org/abs/2506.06404) [💻 Code](https://github.com/Human-Language-Intelligence/Unintended-Harms-LLM)
+ [🔗 Paper](https://arxiv.org/abs/2506.06404) [💻 Code](https://github.com/Human-Language-Intelligence/Unintended-Harms-LLM)
 
 ## 🤝 Let's Connect!
 - 📧 Email: swimchoi98@gmail.com  

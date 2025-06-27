@@ -34,6 +34,6 @@
 Sooyung Choi, Jaehyeok Lee, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak 
  [🔗 Paper](https://arxiv.org/abs/2506.06404) [💻 Code](https://github.com/Human-Language-Intelligence/Unintended-Harms-LLM)
 
-## 🤝 Let's Connect!
+## 🤝 Contact
 - 📧 Email: swimchoi98@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/swimchoi](https://www.linkedin.com/in/swimchoi/)

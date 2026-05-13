@@ -31,7 +31,7 @@
 ## 📄 Publications
 ### 🔹 ACL 2025 (Oral & Panel)
 **Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights**  
-Sooyung Choi^*^, Jaehyeok Lee^*^, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak 
+Sooyung Choi†, Jaehyeok Lee†, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak
  [🔗 Paper](https://arxiv.org/abs/2506.06404) [💻 Code](https://github.com/Human-Language-Intelligence/Unintended-Harms-LLM)
 
 ## 🤝 Contact

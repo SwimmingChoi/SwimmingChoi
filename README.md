@@ -20,6 +20,7 @@
 </p>
 
 ## 💼 Work Experience
+- **AI Engineer**, Hanwha General Insurance (2025.07 ~ Present)
 - **AI Intern**, Hanwha General Insurance (2025.01 ~ 2025.02)  
 - **AI Intern**, Onoma AI (2022.07 ~ 2022.09)
 
@@ -30,7 +31,7 @@
 ## 📄 Publications
 ### 🔹 ACL 2025 (Oral & Panel)
 **Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights**  
-Sooyung Choi, Jaehyeok Lee, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak 
+Sooyung Choi^*, Jaehyeok Lee^*, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak 
  [🔗 Paper](https://arxiv.org/abs/2506.06404) [💻 Code](https://github.com/Human-Language-Intelligence/Unintended-Harms-LLM)
 
 ## 🤝 Contact
